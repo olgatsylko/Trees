@@ -1,0 +1,19 @@
+{
+  "name": "trees",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgatsylko/Trees.git"
+  },
+  "author": "Olga Tsylko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olgatsylko/Trees/issues"
+  },
+  "homepage": "https://github.com/olgatsylko/Trees#readme"
+}
